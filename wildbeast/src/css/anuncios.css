@@ -1,0 +1,6 @@
+.anuncios{
+    display: grid;
+    grid-area: anuncios;
+    grid-template-columns: repeat(auto-fit, minmax(150px,1fr));
+    
+}
